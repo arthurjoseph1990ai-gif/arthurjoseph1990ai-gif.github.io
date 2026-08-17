@@ -14,7 +14,7 @@ nav_order: 1
 
 #### **UNDER REVIEW**
 
-**Rose, D.**, Nichols, S., & Gerstenberg, T. (2026). [<span style="color: #00ab37">Graph DomainAdaptation: A Detailed Survey of
+**Joseph, Arthur.** (2026). [<span style="color: #00ab37">Graph DomainAdaptation: A Detailed Survey of
 Representation, Structural, Spectral, Causal, and Continual Adaptation.</span>]({{ '/assets/pdf/graph_domain_adaptation_preprints_equations.pdf' | prepend: site.baseurl | prepend: site.url }}) Submitted.
 
 
