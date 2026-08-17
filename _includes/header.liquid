@@ -107,13 +107,15 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          
+
+          {%- comment -%}
           <!-- CV link -->
           <li class="nav-item">
             <a class="nav-link" href="{{ '/assets/pdf/rose_cv.pdf' | prepend: site.baseurl | prepend: site.url }}">
               CV
             </a>
           </li>
+          {%- endcomment -%}
 
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
